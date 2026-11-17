@@ -32,3 +32,10 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+
+# MLflow local tracking
+mlflow.db
+mlflow.db-shm
+mlflow.db-wal
+mlruns/
