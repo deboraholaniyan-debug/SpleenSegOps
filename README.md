@@ -96,3 +96,11 @@ SpleenSegOps/
 │   ├── SegFormer3D/          # Adapted external implementation
 │   └── SlimFormer3D/         # Adapted external implementation
 ├── notebooks/                # Experimental notebooks
+
+## Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/deboraholaniyan-debug/SpleenSegOps.git
+cd SpleenSegOps
